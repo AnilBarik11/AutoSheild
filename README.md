@@ -47,10 +47,6 @@ The extension extracts text from the current webpage or selected content, sends 
 ### Models Implemented
 - Multinomial Naive Bayes
 - Logistic Regression
-- Support Vector Machine (SVM)
+- XGboost
 - Random Forest
 - Decision Tree
-
----
-
-## 📂 Project Structure
